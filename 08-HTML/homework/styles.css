@@ -9,7 +9,7 @@ img {
 #thirdDiv {
     height: 600px;
     width: 500px;
-    color: salmon;
+    background-color: salmon;
     padding: 50px;
     border: 4px dotted blue;
 }
